@@ -1,5 +1,4 @@
 # Canalytics
-# Canalytics
 
 A dad friendly place to explore some python, some analytics methods, and some general programming and data exploration for friends.
 
