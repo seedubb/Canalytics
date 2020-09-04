@@ -11,8 +11,10 @@ Nothing to see here. Just wait a bit. Be Patient. It's coming...when we can...in
 
 Shoot me a message. What is a way that we can use our powers for good.
 
-```
 [//]: <> (
+
+This is some markdown code that we can look at, and it might help us make this readme more useful as we progress
+
 ```## Switch to another file
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
